@@ -16,4 +16,4 @@ This repository contains implementation of AI and ML algorithms from scratch.
 Python
 
 ## 👨‍💻 Author
-Barath Kumar
+Barathkumar
