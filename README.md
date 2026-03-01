@@ -13,7 +13,7 @@ This repository contains implementation of AI and ML algorithms from scratch.
 - Neural Network
 
 ## 🛠 Language Used
-Python
+Python, Java
 
 ## 👨‍💻 Author
 Barathkumar
